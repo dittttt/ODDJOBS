@@ -1,11 +1,12 @@
 # ODDJOBS
 
-# - [ ] FRONT END
-# - [ ] DATABASE
-# - [ ] BACKEND
-# - [ ] CONNECTING MODULES
+# PROGRESS
+- [ ] FRONT END
+- [ ] DATABASE
+- [ ] BACKEND
+- [ ] CONNECTING MODULES
 
-## - [ ] GENERAL PAGES
+## GENERAL PAGES
 - [ ] Home
 - [X] Login
 - [ ] Forgot Password
@@ -14,7 +15,7 @@
 - [ ] Register (role select)
 - [ ] Worker Signup
 
-## - [ ] CUSTOMER VIEW:
+## CUSTOMER VIEW:
 - [ ] User Profile
 - [ ] Billings
 - [ ] Services - Home
@@ -25,7 +26,7 @@
 - [ ] Booking Details
 - [ ] Worker Profile
 
-## - [ ] WORKER VIEW:
+## WORKER VIEW:
 - [ ] User Profile
 - [ ] Worker Profile
 - [ ] Billings
@@ -37,7 +38,7 @@
 - [ ] Booking Details
 - [ ] Worker Profile (other profiles)
 
-## - [ ] ADMIN VIEW:
+## ADMIN VIEW:
 - [ ] Login
 - [ ] Signup
 - [ ] Admin Profile
