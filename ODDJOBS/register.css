@@ -21,10 +21,13 @@ header {
     z-index: 100; /* Ensure the header is on top */
 }
 
-
 .logo {
     background-color: #D92524;
-    padding: 15px 40px;
+    width: 160px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 8px;
 }
 
@@ -45,9 +48,34 @@ header {
     font-size: 25px;
     color: #FFFFFF;
     text-decoration: none;
-    text-decoration: none;
     color: white; /* Inherit the color from the parent */
     display: block; /* Make the link a block-level element to fill the container */
+}
+
+.header-links {
+    list-style: none;
+    margin-left: -120px;
+}
+
+.header-links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.header-links li a {
+    transition: all 0.3s ease 0s;
+}
+
+.header-links li a:hover {
+    color:#D92524
+}
+
+.header-links a {
+    margin: 0 15px;
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 /* Container */
