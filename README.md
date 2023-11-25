@@ -7,14 +7,14 @@
 ## GENERAL PAGES
 - [ ] Home
 - [X] Login
-- [ ] Forgot Password
-- [ ] Change Password
+- [X] Forgot Password
+- [X] Change Password
 - [X] Register
-- [ ] Register (role select)
-- [ ] Worker Signup
+- [X] Register (role select)
+- [X] Worker Signup
 
 ## CUSTOMER VIEW:
-- [ ] User Profile
+- [X] User Profile
 - [ ] Billings
 - [ ] Services - Home
 - [ ] Services - Categories
