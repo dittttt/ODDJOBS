@@ -1,0 +1,13 @@
+.logo {
+    background-color: #D92524;
+    width: 160px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.jobs {
+    color: #780D0D;
+}
