@@ -11,7 +11,7 @@
 - [X] Change Password
 - [X] Register
 - [X] Register (role select)
-- [X] Worker Signup
+- [ ] Worker Signup
 
 ## CUSTOMER VIEW:
 - [X] User Profile
