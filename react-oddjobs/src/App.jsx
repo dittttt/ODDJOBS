@@ -7,37 +7,51 @@ function App() {
 
   return (
     <>
-    <div class="header">
-      <div class="inner_header"> 
-          <a class="logo_container" href="index.html">
-              <div class="logo_box">
-                  <h1>ODD<span>JOBS</span></h1>
-              </div>
-          </a>
-          <ul class="nav">
-              <a href="login.html" onclick="changeColor(this)"><li>SIGN IN</li></a>
-          </ul>
-      </div>
+  <div className="header">
+    <div className="inner_header">
+      <a className="logo_container" href="index.html">
+        <div className="logo_box">
+          <h1>
+            ODD<span>JOBS</span>
+          </h1>
+        </div>
+      </a>
+      <ul className="nav">
+        <a href="login.html" onclick="changeColor(this)">
+          <li>SIGN IN</li>
+        </a>
+      </ul>
+    </div>
   </div>
 
-  <div class="container">
-        
-        <div class="card-form">
-            <form>
-                <h1>CHANGE YOUR PASSWORD</h1>
-                <div class="content">
-
-                    <div class="input-field">
-                      <input type="text" placeholder="New Password" autocomplete="nope"/>
-                    </div>
-                    <div class="input-field">
-                      <input type="text" placeholder="Confirm Password" autocomplete="nope"/>
-                    </div>
-                    <button class="submit-button">SUBMIT</button>
-                </div>
-            </form>
+  
+  <div className="card-form">
+    <form>
+      <h1>LOGIN</h1>
+      <div className="content">
+        <div className="input-field">
+          <input type="email" placeholder="Email" autoComplete="nope" />
         </div>
-    </div>
+        <div className="input-field">
+          <input
+            type="password"
+            placeholder="Password"
+            autoComplete="new-password"
+          />
+        </div>
+        <button className="submit-button">Sign in</button>
+        <div>
+          Don't have an account?{" "}
+          <a href="register.html" className="linkunderlined">
+            Register here
+          </a>{" "}
+        </div>
+        <a href="forgot-password.html" className="linkunderlined">
+          Forgot Your Password?
+        </a>
+      </div>
+    </form>
+  </div>
     </>
   )
 }
