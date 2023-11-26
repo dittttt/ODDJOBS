@@ -5,7 +5,7 @@
 - [ ] CONNECTING MODULES
 
 ## GENERAL PAGES
-- [ ] Home
+- [X] Home
 - [X] Login
 - [X] Forgot Password
 - [X] Change Password
