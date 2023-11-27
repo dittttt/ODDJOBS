@@ -15,7 +15,7 @@
 
 ## CUSTOMER VIEW:
 - [X] User Profile
-- [ ] Billings
+- [X] Billings
 - [ ] Services - Home
 - [ ] Services - Categories
 - [ ] Services - Search
@@ -37,9 +37,9 @@
 - [ ] Worker Profile (other profiles)
 
 ## ADMIN VIEW:
-- [ ] Login
-- [ ] Signup
-- [ ] Admin Profile
+- [X] Login
+- [X] Signup
+- [X] Admin Profile
 - [ ] Service Management
 - [ ] Service Creation
 - [ ] Service Edit
