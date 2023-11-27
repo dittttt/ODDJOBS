@@ -185,7 +185,7 @@ body::-webkit-scrollbar{
 /* START OF OUR PURPOSE SECTION*/
 
 .ourpurpose{
-    width: 1400px;
+    width: 100%;
     height: 541px;
     background-color: rgb(255, 255, 255);
     margin: 0 auto;
@@ -206,8 +206,7 @@ body::-webkit-scrollbar{
 }
 
 .innerbox{
-    width: 550px;
-    padding-right: 25px;
+    width: 625px;
 }
 
 h6{
@@ -263,8 +262,8 @@ p {
 
 .ourpurposeimg{
     object-fit: cover;
-    width: 600px;
-    height: 385px;
+    width: 660px;
+    height: 380px;
     border-radius: 15px;
     opacity: 100%;
 }
