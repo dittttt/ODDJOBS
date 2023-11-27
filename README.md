@@ -16,10 +16,10 @@
 ## CUSTOMER VIEW:
 - [X] User Profile
 - [X] Billings
-- [ ] Services - Home
-- [ ] Services - Categories
-- [ ] Services - Search
-- [ ] Services - Details
+- [X] Services - Home
+- [X] Services - Categories
+- [X] Services - Search
+- [X] Services - Details
 - [ ] Bookings
 - [ ] Booking Details
 - [ ] Worker Profile
