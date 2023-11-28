@@ -15,11 +15,11 @@
 
 ## CUSTOMER VIEW:
 - [X] User Profile
-- [ ] Billings
-- [ ] Services - Home
-- [ ] Services - Categories
-- [ ] Services - Search
-- [ ] Services - Details
+- [X] Billings
+- [X] Services - Home
+- [X] Services - Categories
+- [X] Services - Search
+- [X] Services - Details
 - [ ] Bookings
 - [ ] Booking Details
 - [ ] Worker Profile
@@ -37,9 +37,9 @@
 - [ ] Worker Profile (other profiles)
 
 ## ADMIN VIEW:
-- [ ] Login
-- [ ] Signup
-- [ ] Admin Profile
+- [X] Login
+- [X] Signup
+- [X] Admin Profile
 - [ ] Service Management
 - [ ] Service Creation
 - [ ] Service Edit
