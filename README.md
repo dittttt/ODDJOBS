@@ -21,7 +21,7 @@
 - [X] Services - Search
 - [X] Services - Details
 - [X] Bookings
-- [ ] Booking Details
+- [X] Booking Details
 - [ ] Worker Profile
 
 ## WORKER VIEW:
