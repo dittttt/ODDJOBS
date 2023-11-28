@@ -200,3 +200,49 @@ body {
   color: rgb(233, 41, 41) !important;
 }
 /* END OF HEADER SECTION */
+
+.service-container {
+  display: block;
+  background-color: rgb(182, 182, 182);
+  margin: 25px 40px;
+  border-radius: 10px;
+}
+
+.service-header {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.search {
+  border-radius: 20px;
+  margin-left: auto;
+  text-align: center;
+  font-size: 15px;
+  padding: 5px;
+}
+
+#header-rows {
+  background-color: rgb(152, 152, 152);
+}
+
+.table-service, .table-rows, .table-rows > th, .table-rows > td, .table-rows > td > button {
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 15px;
+  padding: 5px 5px;
+}
+
+.table-service {
+  border-collapse: collapse;
+  width: 100%;
+  margin: auto;
+}
+
+.table-rows > td > button {
+  text-align: center;
+  width: 150px;
+  border-radius: 7px;
+}
