@@ -244,5 +244,13 @@ body {
 .table-rows > td > button {
   text-align: center;
   width: 150px;
-  border-radius: 7px;
+  border-radius: 10rem;
+}
+
+.service-title {
+  display: block;
+  background-color: rgb(182, 182, 182);
+  margin: 25px 40px;
+  padding: 20px;
+  border-radius: 10px;
 }
